@@ -21,5 +21,29 @@
   -- String :- It is string word should be written in ""
   -- Boolean :- Either gives true or false as result
   -- bigint :- big integer
-  -- nul :- 
+  -- null :-  standalone value
+  -- undefined :- value isnt defined
+  -- symbol :-
+  -- object :-  
+
 */
+
+
+// Number datatype
+let num = 12;
+
+// srtring datatype
+let str = "Janak";
+
+// boolean datatype
+let bole = true;
+
+// null datatype
+let nul = null;
+
+// undefined datatype
+let undef;
+
+console.table([bole, num, str, nul, undef]);
+
+
