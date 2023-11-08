@@ -16,3 +16,5 @@ console.log(accEmaiId);
 5. do add comment use // or multi comment ike this one
 
 */
+
+console.table([accEmaiId, accPassword, name, dob]);
