@@ -60,12 +60,18 @@
 
 // --------------------------------------- OPERATIONS ---------------------------------------------//
 
-let num = 33;
+// let num = 33;
 
-console.log(String(num));
+// console.log(String(num));
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2/2);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(256 % 7);
+
+// If used postfix, with operator after operand (for example, x++), the increment operator increments and returns the value before incrementing.
+
+// If used prefix, with operator before operand (for example, ++x), the increment operator increments and returns the value after incrementing.
+
 
