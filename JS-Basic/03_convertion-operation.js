@@ -42,12 +42,12 @@
   till  now  we have understood they in case boolean converstion 0 = false and any other number will give us true and in case of other datatypes if they have value assigned o them then they are true else they will be false.
 */
 
-let dataType;
+// let dataType;
 
-let stringDataType = String(dataType);
+// let stringDataType = String(dataType);
 
-console.table([dataType, stringDataType]);
-console.log(typeof stringDataType);
+// console.table([dataType, stringDataType]);
+// console.log(typeof stringDataType);
 
 /* 
  string converstion is also the same it convertes everything to the string wheter its number null undefined 
@@ -57,4 +57,15 @@ console.log(typeof stringDataType);
  33 => "33";
  false/true => "false/true";
 */ 
+
+// --------------------------------------- OPERATIONS ---------------------------------------------//
+
+let num = 33;
+
+console.log(String(num));
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
 
